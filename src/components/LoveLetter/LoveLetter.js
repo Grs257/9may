@@ -50,7 +50,7 @@ const envelopeData = [
     content: (
       <div>
         <p>
-          Mana Vayasulo unnappudu mana cheyyavalsina konni badhyatalu mana medha
+          Manam Vayasulo unnappudu manam cheyyavalsina konni badhyatalu mana medha
           untai ala ani manaki okari medha prema inkokari taggipothundhi ani
           kadhu chupinchukune time undadhu anthe
         </p>
@@ -76,12 +76,12 @@ const envelopeData = [
     content: (
       <div>
         <p>
-          Ee phase lo full time untundhi ika mana istam anuko prathi roju mana
+          Ee phase lo full time untundhi ika mana istam anuko prathi roju manam
           nacchina time ki lechi ala oka morning walk,sayanthram oka evening
           walk prathi vishyam lo manaki prapancham tho pani lekunda nuvvu nenu
           anthe, challani sayantralalo chakkaga comfort unna chairs pakka
           pakkana veskuni manam appati varaku gadipina moments ni share
-          cheskuntu blush avthu cherish aavdham ematav bokkipallu pellama🤣
+          cheskuntu blush avthu cherish aavdham emantav bokkipallu pellama🤣
         </p>
         <p>
           Manam musali ayyaka nee palla settu dachesi ata pattistha 🤣 nuv
