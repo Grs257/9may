@@ -10,6 +10,7 @@
     overflow: hidden;
     background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
     animation: pulseBackground 20s infinite ease-in-out;
 }
 
