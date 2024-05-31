@@ -8,6 +8,7 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
+    background: linear-gradient(to bottom right, lightblue, lightpink);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -80,8 +81,8 @@
     bottom: 0;
     width: 100%;
     height: 100%;
-/*     background: inherit; */
-    background: linear-gradient(to bottom right, lightblue, lightpink);
+    background: inherit;
+   
 }
 
 .letter {
