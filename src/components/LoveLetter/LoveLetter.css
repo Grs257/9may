@@ -8,7 +8,7 @@
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     animation: pulseBackground 20s infinite ease-in-out;
 }
