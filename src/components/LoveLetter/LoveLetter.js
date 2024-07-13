@@ -9,7 +9,6 @@ import background3 from "./BH-3.jpg";
 import bg from "./BG.jpg";
 import bg2 from "./BG2.jpg";
 import bg3 from "./BG3.jpg";
-
 const backgrounds = [background1, background2, background3];
 const emojis = ["❤️", "😍", "💖", "😘"];
 
