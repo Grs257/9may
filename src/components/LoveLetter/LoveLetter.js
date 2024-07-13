@@ -3,12 +3,13 @@ import "./LoveLetter.css";
 import audioFile1 from "./1.mp3";
 import audioFile2 from "./song3.mp3";
 import audioFile3 from "./song2.mp3";
-import background1 from "./BH-1.jpg";
+import background1 from "./BH-1.jpeg";
 import background2 from "./BH2.jpg";
-import background3 from "./BH-3.jpg";
+import background3 from "./BH-3.jpeg";
 import bg from "./BG.jpg";
 import bg2 from "./BG2.jpg";
 import bg3 from "./BG3.jpg";
+
 const backgrounds = [background1, background2, background3];
 const emojis = ["❤️", "😍", "💖", "😘"];
 
