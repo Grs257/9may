@@ -22,22 +22,13 @@ const envelopeData = [
     content: (
       <div>
         <p>
-          Nenu naa childhood lo edhaina unte bagundedhi ani anukune vishyam ento
-          telsa adhi nee childhood birthdays appudaithey nee cute cute face
-          chusthu😁,
+          "Like the moon loves the endless sky,
+Like rivers to the ocean fly,
+ 
         </p>
         <p>
-          Happy Birthday to you ani cheppi happy ayye vadni kadha ani
-          alochistha.
-        </p>
-        <p>
-          Ponile mana pelli nundi prathi birthday full joy ga celebrate
-          cheskundham
-        </p>
-        <p>
-          <strong color="Red">Love you baby😘😘😘</strong>
-          <br />
-          with love, nee childhood miss aina pilladni ❤️
+          My heart runs to you, forever true,
+My love, my life, my dream, it's you."
         </p>
       </div>
     ),
@@ -50,20 +41,16 @@ const envelopeData = [
     content: (
       <div>
         <p>
-          Manam Vayasulo unnappudu manam cheyyavalsina konni badhyatalu mana medha
-          untai ala ani manaki okari medha prema inkokari taggipothundhi ani
-          kadhu chupinchukune time undadhu anthe
+         "You are the melody in my silent song,
+The light that guides me all night long.
+
         </p>
         <p>
-          Mana pillalu, mana parents,mana works,mana idealogy share
-          cheskovadam,chinna godavalu aa taravata bujjaginchukovadam ila anni ee
-          phase lone untai so chala patentience avasaram naku unnantha patience
-          lekapoina parledhu nuv kuda handle cheyyagalav ani nammuthunna 😉😅😂
+          With every breath, in every prayer,
+My heart is yours, beyond compare."
         </p>
         <p>
-          <strong color="Red">Love you Pellam😘😘😘</strong>
-          <br />
-          Itlu, Prema tho nee mogudu ❤️
+          <strong color="Red">Love you Sweetheart😘😘😘</strong>
         </p>
       </div>
     ),
@@ -76,17 +63,13 @@ const envelopeData = [
     content: (
       <div>
         <p>
-          Ee phase lo full time untundhi ika mana istam anuko prathi roju manam
-          nacchina time ki lechi ala oka morning walk,sayanthram oka evening
-          walk prathi vishyam lo manaki prapancham tho pani lekunda nuvvu nenu
-          anthe, challani sayantralalo chakkaga comfort unna chairs pakka
-          pakkana veskuni manam appati varaku gadipina moments ni share
-          cheskuntu blush avthu cherish aavdham emantav bokkipallu pellama🤣
+          "Through every dawn, through every night,
+Your love alone feels pure and right.
+ 
         </p>
         <p>
-          Manam musali ayyaka nee palla settu dachesi ata pattistha 🤣 nuv
-          cheppindhi naku vinapadadhu em antunnave tingari ani vekkiristhu aa
-          sayantralu netho gadipestha 😘😘😘
+          No time nor tide can pull apart,
+The love I hold within my heart."
         </p>
         <p>
           <strong color="Red">Love you bokkipallu musali😘😘😘</strong>
